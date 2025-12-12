@@ -18,7 +18,7 @@ Below are the final test metrics for the version of the model that is being used
 - MAE: 7.8040
 ---
 
-## Model Description
+# Model Description
 
 - **Goal:** Predict a given student’s exam score (%)
 - **Inputs:**
@@ -100,4 +100,5 @@ http://localhost:8501
     - Predicted exam score (%)
     - Performance classification
     - Visual progress indicator
+
 
