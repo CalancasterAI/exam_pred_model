@@ -16,7 +16,7 @@ Below are the final test metrics for the version of the model that is being used
 - Adj. R2: 0.7249
 - RMSE: 9.7458
 - MAE: 7.8040
----
+
 
 # Model Description
 
@@ -38,7 +38,6 @@ Below are the final test metrics for the version of the model that is being used
 
 All preprocessing steps used during training are replicated exactly during inference.
 
----
 
 # Application Interface
 
@@ -54,7 +53,6 @@ The deployed application is built using **Streamlit** and provides:
 
 The interface is styled using a **dark theme** and organized as a dashboard for clarity and usability.
 
----
 
 # Installation and Deployment
 
@@ -87,7 +85,6 @@ The app should start locally and be available at:
 http://localhost:8501
 ```
 
----
 
 # How to use the Deployed Model
 
@@ -100,5 +97,6 @@ http://localhost:8501
     - Predicted exam score (%)
     - Performance classification
     - Visual progress indicator
+
 
 
